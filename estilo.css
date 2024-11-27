@@ -1,0 +1,13 @@
+
+            h1 {
+                color: rgb(9, 9, 247);
+                font-size: 50px;
+            }
+            p {
+                color: red;
+                font-family: Verdana;
+            }
+            img{
+                border: 20px solid black;
+                width: 20%;
+            }
